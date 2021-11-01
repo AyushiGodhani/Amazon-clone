@@ -8,7 +8,7 @@
 - Basket update a number of item and subtotal according to chages
 - Basic validation
 
-## Here's what will be addded to Application shortly:
+## Here's what will be added to Application shortly:
 - Login page with authentication and user email address will be shows on Main page
 - Payment processing to complete checkout for order
 - React hover effects and Slide shows for product 
